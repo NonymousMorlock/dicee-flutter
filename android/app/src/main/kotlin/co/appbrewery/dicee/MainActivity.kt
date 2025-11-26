@@ -1,4 +1,4 @@
-package co.appbrewery.dicee_flutter
+package co.appbrewery.dicee
 
 import io.flutter.embedding.android.FlutterActivity
 
